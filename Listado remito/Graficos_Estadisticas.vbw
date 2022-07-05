@@ -1,0 +1,12 @@
+frm_Inicio = 66, 66, 809, 499, , 44, 44, 534, 477, C
+inicio_de_sistema = 88, 88, 573, 521, 
+Regla_de_negocios = 42, 130, 532, 563, 
+frm_remito_n_capas = 4, 0, 465, 443, , 96, 96, 564, 539, C
+acceso_remitos = 18, 60, 844, 624, 
+UDF = 72, 72, 597, 515, 
+frm_listado = 100, 100, 587, 502, C, 75, 75, 850, 477, C
+Lista_remitos = 150, 150, 625, 552, C, -5, 17, 1019, 786, C
+frm_estadisticas = 132, 132, 394, 440, C, 110, 110, 402, 418, C
+frm_listado_remito = 108, 170, 893, 540, Z, 125, 125, 868, 532, C
+Rd = 0, 0, 0, 0, C, 25, 25, 1049, 787, C
+DataEnvironment1 = 0, 0, 0, 0, C, 110, 110, 863, 776, C
